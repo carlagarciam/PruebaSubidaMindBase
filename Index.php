@@ -13,7 +13,7 @@
           rel="shortcut icon" type="image/x-icon"/>
     <link href="https://assets.website-files.com/5ffcd643561bc26ed27a87a1/5ffcd643561bc2d93f7a87be_appicon.png"
           rel="apple-touch-icon"/>
-    <link rel="stylesheet" href="../assets/css/MainCSS.css">
+    <link rel="stylesheet" href="assets/css/MainCSS.css">
 </head>
 <body>
 <div class="overflow">
@@ -97,7 +97,7 @@
 <script src="https://assets.website-files.com/5ffcd643561bc26ed27a87a1/js/tricks-glassmorphism.cb53de5e9.js"
         type="text/javascript"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script>
-<script src="../assets/js/MainJS.js"></script>
+<script src="assets/js/MainJS.js"></script>
 
 </body>
 </html>

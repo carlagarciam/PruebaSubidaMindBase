@@ -26,7 +26,7 @@
         </div>
     </div>
     <nav class="section is--nav">
-        <div class="container is--nav"><a href="Index.php" aria-current="page"
+        <div class="container is--nav"><a href="../Index.php" aria-current="page"
                                           class="nav__logo-link w-inline-block w--current">
                 <p class="hero__card-text">MindBase</p>
                 <div class="mav__right">
